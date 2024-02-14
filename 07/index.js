@@ -48,4 +48,4 @@ for (let i = 0; i < livro.capitulos.length; i++) {
     contador = contador + 1
     livro.capitulos[i].numero = contador
 }
-console.log(livro.capitulos)
+console.log(livro)
